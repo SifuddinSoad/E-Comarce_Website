@@ -12,5 +12,6 @@ This is a customizable and functional e-commerce website designed for show casin
 ## Deployment
 
 To deploy this project run
+https://sifuddinsoad.github.io/E-Comarce_Website/
 
-https://tausinn.github.io/Ceramic-e-commerce-website/
+
